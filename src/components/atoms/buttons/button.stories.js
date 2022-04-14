@@ -41,7 +41,7 @@ Small.args = {
   primary: true,
   disabled: false,
   size: "small",
-  text: "Small",
+  text: "Smallllll",
 };
 
 export const Medium = Template.bind({});

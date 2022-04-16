@@ -9,11 +9,10 @@ import { ButtonProps } from "./Button.types";
 const StyledButton = styled.button<ButtonProps>`
   border: 0;
   line-height: 1;
-  font-size: 15px;
+  font-size: 30px;
   cursor: pointer;
   font-weight: 700;
   font-weight: bold;
-  border-radius: 3px;
   display: inline-block;
   padding: ${(props) =>
     props.size === "small"
